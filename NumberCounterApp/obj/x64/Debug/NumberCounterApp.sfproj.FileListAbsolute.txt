@@ -1,0 +1,1 @@
+C:\Manoj\VSOnline\PubPoCs\NumberCounterApp-ScalabilityReliability\NumberCounterApp\obj\x64\Debug\NumberCounterApp.sfprojResolveAssemblyReference.cache
